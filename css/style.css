@@ -12921,6 +12921,7 @@ h5,
 
 .project-wrap .img {
   display: block;
+  object-fit: cover;
   width: 100%;
   height: 300px;
   position: relative;
