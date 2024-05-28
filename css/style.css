@@ -572,7 +572,7 @@ header .colorlib-navbar-brand .colorlib-logo:focus {
 @media screen and (max-width: 480px) {
   #colorlib-hero .hero-flex .text-inner .desc {
     padding: 1em;
-    background: #fff;
+    background: #000000;
     width: 140%;
   }
 }
